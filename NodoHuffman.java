@@ -1,3 +1,6 @@
+// Linda Candela Paz
+// 42.379.854
+
 class NodoHuffman implements Comparable<NodoHuffman> {
     char caracter;
     int frecuencia;
